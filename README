@@ -1,0 +1,12 @@
+This app is simple demonstration on how to use Guice with Android application development.
+
+Check the following clasess under src/
+
+com.example.guice.GuiceAndroidActivity
+com.example.guice.GuiceAndroidApplication
+
+--
+
+And check the bindings for the injected dependencies.
+
+com.example.core.GuiceBindingsModule
