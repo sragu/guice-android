@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example">
+    <application android:icon="@drawable/icon" android:label="quote" android:name="com.example.QuoteApplication" >
+        <activity android:name=".activity.DisplayQuoteActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".guice.GuiceAndroidActivity"/>
+    </application>
+</manifest>
