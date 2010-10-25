@@ -5,7 +5,6 @@ import android.os.Bundle;
 
 /**
  * Created by IntelliJ IDEA.
- * User: ThoughtWorks
  * Date: Oct 24, 2010
  * Time: 2:05:04 AM
  * To change this template use File | Settings | File Templates.

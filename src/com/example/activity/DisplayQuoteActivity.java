@@ -9,7 +9,6 @@ import com.google.inject.Inject;
 
 /**
  * Created by IntelliJ IDEA.
- * User: ThoughtWorks
  * Date: Oct 22, 2010
  * Time: 1:14:43 PM
  * To change this template use File | Settings | File Templates.

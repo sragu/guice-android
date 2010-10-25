@@ -6,7 +6,6 @@ import com.google.inject.Injector;
 
 /**
  * Created by IntelliJ IDEA.
- * User: ThoughtWorks
  * Date: Oct 24, 2010
  * Time: 1:38:44 AM
  * To change this template use File | Settings | File Templates.
